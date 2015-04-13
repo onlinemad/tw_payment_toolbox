@@ -1,23 +1,24 @@
 {
-  "name": "ctbc_payment",
-  "version": "0.2.1",
-  "description": "中國信託網路交易介接工具箱",
+  "name": "tw_payment_toolbox",
+  "version": "0.3.0",
+  "description": "台灣線上支付工具箱",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/onlinemad/skipper-gcs.git"
+    "url": "https://github.com/onlinemad/tw_payment_toolbox"
   },
   "keywords": [
-    "ctbc"
+    "ctbc",
+    "payment"
   ],
   "author": "Ian Wu <onlinemad@gmail.com>",
   "bugs": {
-    "url": "https://github.com/onlinemad/ctcb_payment/issues"
+    "url": "https://github.com/onlinemad/tw_payment_toolbox/issues"
   },
-  "homepage": "https://github.com/onlinemad/ctcb_payment",
+  "homepage": "https://github.com/onlinemad/tw_payment_toolbox",
   "license": "MIT",
   "dependencies": {
     "iconv-lite": "^0.4.7",
